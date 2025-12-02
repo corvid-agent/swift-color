@@ -15,18 +15,10 @@ let package = Package(
         .library(name: "Color", targets: ["Color"])
     ],
     targets: [
-        .target(
-            name: "Color",
-            swiftSettings: [
-                .enableUpcomingFeature("StrictConcurrency")
-            ]
-        ),
+        .target(name: "Color"),
         .testTarget(
             name: "ColorTests",
-            dependencies: ["Color"],
-            swiftSettings: [
-                .enableUpcomingFeature("StrictConcurrency")
-            ]
+            dependencies: ["Color"]
         )
     ]
 )
