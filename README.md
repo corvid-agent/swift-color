@@ -1,6 +1,7 @@
 # SwiftColor
 
-[![CI](https://img.shields.io/github/actions/workflow/status/CorvidLabs/swift-color/ci.yml?label=CI&branch=main)](https://github.com/CorvidLabs/swift-color/actions/workflows/ci.yml)
+[![macOS](https://img.shields.io/github/actions/workflow/status/CorvidLabs/swift-color/macOS.yml?label=macOS&branch=main)](https://github.com/CorvidLabs/swift-color/actions/workflows/macOS.yml)
+[![Ubuntu](https://img.shields.io/github/actions/workflow/status/CorvidLabs/swift-color/ubuntu.yml?label=Ubuntu&branch=main)](https://github.com/CorvidLabs/swift-color/actions/workflows/ubuntu.yml)
 [![License](https://img.shields.io/github/license/CorvidLabs/swift-color)](https://github.com/CorvidLabs/swift-color/blob/main/LICENSE)
 [![Version](https://img.shields.io/github/v/release/CorvidLabs/swift-color)](https://github.com/CorvidLabs/swift-color/releases)
 
