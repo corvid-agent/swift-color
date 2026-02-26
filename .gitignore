@@ -6,3 +6,5 @@
 *.playground
 DerivedData/
 xcuserdata/
+node_modules/
+bun.lock
